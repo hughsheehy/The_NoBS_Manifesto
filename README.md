@@ -15,6 +15,7 @@ Axioms
 
 
 Principles
+	
 	1. No jargon is allowed
 	
 	2. The measure of success is a successful business
