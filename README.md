@@ -3,6 +3,7 @@ The_NoBS_Manifesto
 
 
 Axioms
+	
 	Axiom #1: Manifestos are bullshit
 	
 	Axiom #2: There is no substitute for thinking
