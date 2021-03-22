@@ -1,0 +1,2 @@
+# The_NoBS_Manifesto
+The_NoBS_Manifesto
