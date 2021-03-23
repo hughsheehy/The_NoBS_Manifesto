@@ -1,3 +1,6 @@
+![No BS Logo](https://raw.githubusercontent.com/hughsheehy/The_NoBS_Manifesto/main/logo.svg)
+
+
 # The No BS Manifesto
 
 Axioms
