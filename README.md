@@ -30,7 +30,7 @@ Principles
 	
 	6. Data and numbers matter. Don't ignore your gut but don't trust it. 
 	
-	7. Software exists to achieve something real, outside the dev team.
+	7. Work inside the business (e.g. software development) must aim to achieve something in the real world.
 	
 	8. No platitudes, obvious truths or vague approximations allowed.
 	
