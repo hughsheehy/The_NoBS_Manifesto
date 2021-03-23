@@ -8,7 +8,7 @@ Axioms
 	
 	Axiom #2: There is no substitute for thinking
 	
-	Axiom #3: Being able to do something is what matters
+	Axiom #3: Being able to do it is what matters
 	
 	Axiom #4: Straight talk saves lives
 	
