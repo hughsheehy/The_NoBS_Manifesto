@@ -19,7 +19,7 @@ Principles
 	
 	1. No jargon is allowed
 	
-	2. The measure of success is business success
+	2. The measure of team success is overall business success
 	
 	3. Trade offs always exist. Make them explicit. Use dollars to decide. 
 	
