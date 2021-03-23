@@ -39,4 +39,4 @@ Principles
 	
 	11. Make big decisions carefully. Make small decisions quickly. Get on with it.
 	
-	12. Make the world a better place. Inside the team and outsie. 
+	12. Make the world a better place. Inside the team and outside. 
