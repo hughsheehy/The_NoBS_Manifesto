@@ -5,7 +5,7 @@
 
 Axioms
 	
-	Axiom #1: Manifestos are bullshit
+	Axiom #1: Manifestos are only reminders
 	
 	Axiom #2: There is no substitute for thinking
 	
