@@ -19,30 +19,24 @@ Principles
 	
 	1. No jargon is allowed
 	
-	2. The measure of success is a successful business
+	2. The measure of success is business success
 	
-	3. Trade offs always exist. Make them explicit.
+	3. Trade offs always exist. Make them explicit. Use dollars to decide. 
 	
-	4. Modularization is good.
+	4. Modularization is good. Simpler is better. Complex is bad. 
 	
-	5. Simpler is better.
+	5. Write stuff down. Write it so people can understand it.
 	
-	6. Write stuff down. Write it so people can understand it.
+	6. Data and numbers matter. Don't ignore your gut but don't trust it. 
 	
-	7. Data and numbers matter.
+	7. Software exists to achieve something real, outside the dev team.
 	
-	8. Software exists to achieve something real, outside the dev team.
+	8. No platitudes, obvious truths or vague approximations allowed.
 	
-	9. No platitudes, obvious truths or vague approximations allowed.
+	9. Listen more than you talk. Ask for specific things.
 	
-	10. Listen more than you talk.
+	10. Do what you promised. Admit early if there’s a problem.
 	
-	11. Ask for specific things.
+	11. Make big decisions carefully. Make small decisions quickly. Get on with it.
 	
-	12. Do what you promised or at least admit early if there’s a problem.
-	
-	13. Make big decisions carefully. Make small decisions quickly.
-	
-	14. Get on with it.
-	
-	15. Make the world a better place.
+	12. Make the world a better place. Inside the team and outsie. 
