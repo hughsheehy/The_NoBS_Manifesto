@@ -41,3 +41,6 @@ Principles
 	11. Make big decisions carefully. Make small decisions quickly. Get on with it.
 	
 	12. Make the world a better place. Inside the team and outside. 
+	
+	13. The specific tech you use rarely matters. Use what works, not what you like. 
+
